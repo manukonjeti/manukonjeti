@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manisha konjeti</h1>
 <h3 align="center">A passionate Web dev</h3>
 
+  <img src="https://i.pinimg.com/236x/d7/f1/35/d7f135f4dd92e192a8373a0652d8b879.jpg" alt="Developer Image" >
+
+
 
 
 - 🔭 I’m currently working on **Full stack development**
